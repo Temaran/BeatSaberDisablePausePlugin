@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "author": "Temaran",
+  "description": "Disables the pause button. You can still use the system button to trigger a pause though.",
+  "gameVersion": "1.1.0p1",
+  "id": "DisablePause",
+  "name": "Disable Pause",
+  "version": "1.0.0",
+  "dependsOn": {
+  },
+  "features": [
+  ]
+}
